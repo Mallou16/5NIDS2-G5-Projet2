@@ -63,5 +63,5 @@ public class EquipeServiceImplTest {
         Mockito.verify(equipeRepository, Mockito.times(1)).delete(equipe);
     }
 
-    // Add tests for other service methods (retrieveEquipe, updateEquipe, evoluerEquipes, etc.)
+
 }
